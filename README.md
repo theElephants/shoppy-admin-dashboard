@@ -5,6 +5,8 @@ This app is hosted on netlify.
 
 To see this app in action visit: https://kersh-syncfusion-dashboard.netlify.app/
 
+![shoppy](https://github.com/theElephants/shoppy-admin-dashboard/assets/50935468/564d9cdc-84c1-4dec-b648-60b62a1e3950)
+
 Features of this app include:
 Light and dark modes.
 Custom theme color settings.
