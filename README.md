@@ -3,7 +3,13 @@ This is a fully functional mock store created using Node JS.
 The app was created using create react app, Tailwind CSS, jest, eslint, and syncfusion components.
 This app is hosted on netlify.
 
-To see this app in action visit: https://kersh-syncfusion-dashboard.netlify.app/
+Check out the live demo:
+-- [Shoppy - Admin Dashboard Demo](https://kersh-syncfusion-dashboard.netlify.app/)
+
+and
+
+Check out some of my other projects:
+-- [Portfolio](https://portfolio.kershdigital.com)
 
 ![shoppy](https://github.com/theElephants/shoppy-admin-dashboard/assets/50935468/564d9cdc-84c1-4dec-b648-60b62a1e3950)
 
